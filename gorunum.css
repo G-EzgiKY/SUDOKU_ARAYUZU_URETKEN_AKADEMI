@@ -1,0 +1,137 @@
+div.kutu{
+        width: 20px;
+        height:20px;
+        background-color: white;
+        color: pink;
+        margin:1px;
+        text-align:center;
+        line-height:20px;
+        
+        border:2px solid brown;
+      }
+     
+       
+      div#kutu_kapsa,hover{
+        background-color:gray;
+        width: 228px;
+        height: 228px;
+        border: 5px double pink;
+        margin: auto;
+        display: flex;
+        flex-wrap: wrap;
+        
+
+      }
+      
+
+    
+      div.kutu1{
+        width: 20px;
+        height:20px;
+        background-color: white;
+        color: pink;
+        margin:1px;
+        text-align:center;
+        line-height:20px;
+        
+        border:2px solid orange;
+        
+      }
+
+      div.kutu2{
+        width: 20px;
+        height:20px;
+        background-color: white;
+        color: pink;
+        margin:1px;
+        text-align:center;
+        line-height:20px;
+        
+        border:2px solid red;
+
+        
+        
+      }
+        div.kutu3{
+        width: 20px;
+        height:20px;
+        background-color: white;
+        color: pink;
+        margin:1px;
+        text-align:center;
+        line-height:20px;
+        
+        border:2px solid purple;
+      }
+     
+      div.kutu4{
+        width: 20px;
+        height:20px;
+        background-color: white;
+        color: pink;
+        margin:1px;
+        text-align:center;
+        line-height:20px;
+        
+        border:2px solid green;
+      }
+     
+      div.kutu5{
+        width: 20px;
+        height:20px;
+        background-color: white;
+        color: pink;
+        margin:1px;
+        text-align:center;
+        line-height:20px;
+        
+        border:2px solid yellow;
+      }
+
+       div.kutu6{
+        width: 20px;
+        height:20px;
+        background-color: white;
+        color: pink;
+        margin:1px;
+        text-align:center;
+        line-height:20px;
+        
+        border:2px solid blue;
+      }
+
+       div.kutu7{
+        width: 20px;
+        height:20px;
+        background-color: white;
+        color: pink;
+        margin:1px;
+        text-align:center;
+        line-height:20px;
+        
+        border:2px solid brown;
+      }
+
+       div.kutu8{
+        width: 20px;
+        height:20px;
+        background-color: white;
+        color: pink;
+        margin:1px;
+        text-align:center;
+        line-height:20px;
+        
+        border:2px solid fuchsia;
+      }
+
+       div.kutu9{
+        width: 20px;
+        height:20px;
+        background-color: white;
+        color: pink;
+        margin:1px;
+        text-align:center;
+        line-height:20px;
+        
+        border:2px solid cyan;
+      }
